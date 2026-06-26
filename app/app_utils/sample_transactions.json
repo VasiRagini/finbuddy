@@ -1,0 +1,13 @@
+[
+  {"merchant": "Netflix", "amount": 199, "date": "2026-04-01", "last_used_days_ago": 2},
+  {"merchant": "Netflix", "amount": 199, "date": "2026-05-01", "last_used_days_ago": 2},
+  {"merchant": "Netflix", "amount": 249, "date": "2026-06-01", "last_used_days_ago": 2},
+  {"merchant": "Spotify", "amount": 119, "date": "2026-04-05", "last_used_days_ago": 1},
+  {"merchant": "Spotify", "amount": 119, "date": "2026-05-05", "last_used_days_ago": 1},
+  {"merchant": "Spotify", "amount": 119, "date": "2026-06-05", "last_used_days_ago": 1},
+  {"merchant": "GymFitPro", "amount": 999, "date": "2026-04-10", "last_used_days_ago": 95},
+  {"merchant": "GymFitPro", "amount": 999, "date": "2026-05-10", "last_used_days_ago": 95},
+  {"merchant": "GymFitPro", "amount": 999, "date": "2026-06-10", "last_used_days_ago": 95},
+  {"merchant": "CloudStorageX", "amount": 299, "date": "2026-06-15", "last_used_days_ago": 10},
+  {"merchant": "CloudStorageX", "amount": 299, "date": "2026-06-15", "last_used_days_ago": 10}
+]
