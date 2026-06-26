@@ -68,9 +68,8 @@ Subscription overspending is a quiet, universal financial drain. FinBuddy turns 
 
 
 
-\[Link to video demo]
-
-\[Link to GitHub repository]
+Video: https://youtu.be/Vl3WDbFmp50
+GitHub: https://github.com/VasiRagini/finbuddy
 
 
 
