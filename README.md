@@ -41,13 +41,16 @@ finbuddy/
 1. **Install dependencies:**
    ```bash
    uv sync
+
 2.Configure your API key — create a .env file in this folder:
 GOOGLE_API_KEY=your_gemini_api_key_here
 GOOGLE_GENAI_USE_VERTEXAI=False
 GEMINI_MODEL=gemini-2.5-flash
 Get a free key at Google AI Studio.
+
 3.Run the local playground:
 uv run adk web app --host 127.0.0.1 --port 18081
+
 4.Open http://127.0.0.1:18081 and try:
 Check my subscriptions for any issues
 Sample Output
@@ -61,6 +64,7 @@ Google ADK (Agent Development Kit) — multi-agent orchestration
 Gemini 2.5 Flash — underlying LLM
 Python — tool implementations
 Built and tested locally, no cloud deployment required
+
 Built By
 Ragini — B.Tech AI & ML, SVCE Tirupati
-GitHub | LinkedIn
+[GitHub](https://github.com/VasiRagini) | [LinkedIn](https://linkedin.com/in/vasi-ragini-67295b322)
